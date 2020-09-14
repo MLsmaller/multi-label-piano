@@ -1,0 +1,180 @@
+epoch: 0:
+train	Loss: 0.2173	Acc: 0.8490	Pos_Acc: 0.0000
+
+epoch: 0:
+val	Loss: 0.2840	Acc: 0.8933	Pos_Acc: 0.0000
+
+epoch: 1:
+train	Loss: 0.1058	Acc: 0.9379	Pos_Acc: 0.0000
+
+epoch: 1:
+val	Loss: 0.1709	Acc: 0.8884	Pos_Acc: 0.0000
+
+epoch: 2:
+train	Loss: 0.0908	Acc: 0.9480	Pos_Acc: 0.0000
+
+epoch: 2:
+val	Loss: 0.0878	Acc: 0.9464	Pos_Acc: 0.0000
+
+epoch: 3:
+train	Loss: 0.0800	Acc: 0.9558	Pos_Acc: 0.0000
+
+epoch: 3:
+val	Loss: 0.0972	Acc: 0.9236	Pos_Acc: 0.0000
+
+epoch: 4:
+train	Loss: 0.0763	Acc: 0.9578	Pos_Acc: 0.0000
+
+epoch: 4:
+val	Loss: 0.0993	Acc: 0.9579	Pos_Acc: 0.0000
+
+epoch: 5:
+train	Loss: 0.0745	Acc: 0.9590	Pos_Acc: 0.0000
+
+epoch: 5:
+val	Loss: 0.0917	Acc: 0.9545	Pos_Acc: 0.0000
+
+epoch: 6:
+train	Loss: 0.0732	Acc: 0.9590	Pos_Acc: 0.0000
+
+epoch: 6:
+val	Loss: 0.0703	Acc: 0.9508	Pos_Acc: 0.0000
+
+epoch: 7:
+train	Loss: 0.0724	Acc: 0.9590	Pos_Acc: 0.0000
+
+epoch: 7:
+val	Loss: 0.0914	Acc: 0.9544	Pos_Acc: 0.0000
+
+epoch: 8:
+train	Loss: 0.0687	Acc: 0.9615	Pos_Acc: 0.0000
+
+epoch: 8:
+val	Loss: 0.1979	Acc: 0.9422	Pos_Acc: 0.0000
+
+epoch: 9:
+train	Loss: 0.0689	Acc: 0.9613	Pos_Acc: 0.0000
+
+epoch: 9:
+val	Loss: 0.0730	Acc: 0.9652	Pos_Acc: 0.0000
+
+epoch: 10:
+train	Loss: 0.0699	Acc: 0.9609	Pos_Acc: 0.0000
+
+epoch: 10:
+val	Loss: 0.0901	Acc: 0.9635	Pos_Acc: 0.0000
+
+epoch: 11:
+train	Loss: 0.0667	Acc: 0.9631	Pos_Acc: 0.0000
+
+epoch: 11:
+val	Loss: 0.0911	Acc: 0.9612	Pos_Acc: 0.0000
+
+epoch: 12:
+train	Loss: 0.0676	Acc: 0.9637	Pos_Acc: 0.0000
+
+epoch: 12:
+val	Loss: 0.1152	Acc: 0.9318	Pos_Acc: 0.0000
+
+epoch: 13:
+train	Loss: 0.0641	Acc: 0.9647	Pos_Acc: 0.0000
+
+epoch: 13:
+val	Loss: 0.0948	Acc: 0.9508	Pos_Acc: 0.0000
+
+epoch: 14:
+train	Loss: 0.0665	Acc: 0.9630	Pos_Acc: 0.0000
+
+epoch: 14:
+val	Loss: 0.0971	Acc: 0.9487	Pos_Acc: 0.0000
+
+epoch: 15:
+train	Loss: 0.0640	Acc: 0.9652	Pos_Acc: 0.0000
+
+epoch: 15:
+val	Loss: 0.0840	Acc: 0.9700	Pos_Acc: 0.0000
+
+epoch: 16:
+train	Loss: 0.0633	Acc: 0.9652	Pos_Acc: 0.0000
+
+epoch: 16:
+val	Loss: 0.0806	Acc: 0.9661	Pos_Acc: 0.0000
+
+epoch: 17:
+train	Loss: 0.0602	Acc: 0.9672	Pos_Acc: 0.0000
+
+epoch: 17:
+val	Loss: 0.0869	Acc: 0.9422	Pos_Acc: 0.0000
+
+epoch: 18:
+train	Loss: 0.0635	Acc: 0.9656	Pos_Acc: 0.0000
+
+epoch: 18:
+val	Loss: 0.0827	Acc: 0.9543	Pos_Acc: 0.0000
+
+epoch: 19:
+train	Loss: 0.0666	Acc: 0.9643	Pos_Acc: 0.0000
+
+epoch: 19:
+val	Loss: 0.1051	Acc: 0.9240	Pos_Acc: 0.0000
+
+epoch: 20:
+train	Loss: 0.0627	Acc: 0.9662	Pos_Acc: 0.0000
+
+epoch: 20:
+val	Loss: 0.1164	Acc: 0.9090	Pos_Acc: 0.0000
+
+epoch: 21:
+train	Loss: 0.0442	Acc: 0.9752	Pos_Acc: 0.0000
+
+epoch: 21:
+val	Loss: 0.0415	Acc: 0.9772	Pos_Acc: 0.0000
+
+epoch: 22:
+train	Loss: 0.0379	Acc: 0.9784	Pos_Acc: 0.0000
+
+epoch: 22:
+val	Loss: 0.0395	Acc: 0.9798	Pos_Acc: 0.0000
+
+epoch: 23:
+train	Loss: 0.0357	Acc: 0.9799	Pos_Acc: 0.0000
+
+epoch: 23:
+val	Loss: 0.0367	Acc: 0.9812	Pos_Acc: 0.0000
+
+epoch: 24:
+train	Loss: 0.0331	Acc: 0.9814	Pos_Acc: 0.0000
+
+epoch: 24:
+val	Loss: 0.0362	Acc: 0.9800	Pos_Acc: 0.0000
+
+epoch: 25:
+train	Loss: 0.0325	Acc: 0.9811	Pos_Acc: 0.0000
+
+epoch: 25:
+val	Loss: 0.0376	Acc: 0.9787	Pos_Acc: 0.0000
+
+epoch: 26:
+train	Loss: 0.0323	Acc: 0.9814	Pos_Acc: 0.0000
+
+epoch: 26:
+val	Loss: 0.0368	Acc: 0.9798	Pos_Acc: 0.0000
+
+epoch: 27:
+train	Loss: 0.0307	Acc: 0.9826	Pos_Acc: 0.0000
+
+epoch: 27:
+val	Loss: 0.0366	Acc: 0.9793	Pos_Acc: 0.0000
+
+epoch: 28:
+train	Loss: 0.0305	Acc: 0.9827	Pos_Acc: 0.0000
+
+epoch: 28:
+val	Loss: 0.0363	Acc: 0.9783	Pos_Acc: 0.0000
+
+epoch: 29:
+train	Loss: 0.0304	Acc: 0.9830	Pos_Acc: 0.0000
+
+epoch: 29:
+val	Loss: 0.0379	Acc: 0.9797	Pos_Acc: 0.0000
+

@@ -1,0 +1,80 @@
+epoch: 0:
+train	Loss: 0.0961	Acc: 0.8218	Prec: 0.1865	Recall: 0.0283	 Fscore: 0.0491
+epoch: 0:
+val	Loss: 0.0838	Acc: 0.8170	Prec: 0.3163	Recall: 0.0496	 Fscore: 0.0858
+epoch: 1:
+train	Loss: 0.0828	Acc: 0.7902	Prec: 0.2927	Recall: 0.0692	 Fscore: 0.1120
+epoch: 1:
+val	Loss: 0.0810	Acc: 0.7641	Prec: 0.3025	Recall: 0.1038	 Fscore: 0.1546
+epoch: 2:
+train	Loss: 0.0803	Acc: 0.7579	Prec: 0.3147	Recall: 0.1132	 Fscore: 0.1665
+epoch: 2:
+val	Loss: 0.0789	Acc: 0.7442	Prec: 0.3239	Recall: 0.1331	 Fscore: 0.1887
+epoch: 3:
+train	Loss: 0.0782	Acc: 0.7341	Prec: 0.3324	Recall: 0.1593	 Fscore: 0.2154
+epoch: 3:
+val	Loss: 0.0769	Acc: 0.7004	Prec: 0.3179	Recall: 0.2028	 Fscore: 0.2477
+epoch: 4:
+train	Loss: 0.0762	Acc: 0.7130	Prec: 0.3472	Recall: 0.2043	 Fscore: 0.2572
+epoch: 4:
+val	Loss: 0.0747	Acc: 0.6790	Prec: 0.3384	Recall: 0.2489	 Fscore: 0.2868
+epoch: 5:
+train	Loss: 0.0743	Acc: 0.6886	Prec: 0.3506	Recall: 0.2478	 Fscore: 0.2903
+epoch: 5:
+val	Loss: 0.0729	Acc: 0.6596	Prec: 0.3424	Recall: 0.2855	 Fscore: 0.3114
+epoch: 6:
+train	Loss: 0.0725	Acc: 0.6728	Prec: 0.3595	Recall: 0.2837	 Fscore: 0.3172
+epoch: 6:
+val	Loss: 0.0712	Acc: 0.6638	Prec: 0.3644	Recall: 0.2973	 Fscore: 0.3274
+epoch: 7:
+train	Loss: 0.0707	Acc: 0.6573	Prec: 0.3664	Recall: 0.3179	 Fscore: 0.3404
+epoch: 7:
+val	Loss: 0.0693	Acc: 0.6409	Prec: 0.3689	Recall: 0.3474	 Fscore: 0.3578
+epoch: 8:
+train	Loss: 0.0691	Acc: 0.6473	Prec: 0.3744	Recall: 0.3490	 Fscore: 0.3613
+epoch: 8:
+val	Loss: 0.0677	Acc: 0.6204	Prec: 0.3681	Recall: 0.3895	 Fscore: 0.3785
+epoch: 9:
+train	Loss: 0.0674	Acc: 0.6391	Prec: 0.3840	Recall: 0.3807	 Fscore: 0.3823
+epoch: 9:
+val	Loss: 0.0660	Acc: 0.6293	Prec: 0.3903	Recall: 0.4141	 Fscore: 0.4019
+epoch: 10:
+train	Loss: 0.0657	Acc: 0.6299	Prec: 0.3917	Recall: 0.4109	 Fscore: 0.4010
+epoch: 10:
+val	Loss: 0.0645	Acc: 0.6107	Prec: 0.3887	Recall: 0.4506	 Fscore: 0.4174
+epoch: 11:
+train	Loss: 0.0641	Acc: 0.6272	Prec: 0.4042	Recall: 0.4422	 Fscore: 0.4224
+epoch: 11:
+val	Loss: 0.0628	Acc: 0.6225	Prec: 0.4087	Recall: 0.4658	 Fscore: 0.4354
+epoch: 12:
+train	Loss: 0.0624	Acc: 0.6241	Prec: 0.4135	Recall: 0.4715	 Fscore: 0.4406
+epoch: 12:
+val	Loss: 0.0611	Acc: 0.6181	Prec: 0.4197	Recall: 0.5092	 Fscore: 0.4601
+epoch: 13:
+train	Loss: 0.0608	Acc: 0.6219	Prec: 0.4239	Recall: 0.5015	 Fscore: 0.4594
+epoch: 13:
+val	Loss: 0.0595	Acc: 0.5960	Prec: 0.4148	Recall: 0.5529	 Fscore: 0.4740
+epoch: 14:
+train	Loss: 0.0592	Acc: 0.6231	Prec: 0.4348	Recall: 0.5284	 Fscore: 0.4770
+epoch: 14:
+val	Loss: 0.0578	Acc: 0.6059	Prec: 0.4313	Recall: 0.5709	 Fscore: 0.4914
+epoch: 15:
+train	Loss: 0.0576	Acc: 0.6246	Prec: 0.4464	Recall: 0.5593	 Fscore: 0.4965
+epoch: 15:
+val	Loss: 0.0561	Acc: 0.6113	Prec: 0.4441	Recall: 0.5945	 Fscore: 0.5084
+epoch: 16:
+train	Loss: 0.0560	Acc: 0.6271	Prec: 0.4567	Recall: 0.5825	 Fscore: 0.5120
+epoch: 16:
+val	Loss: 0.0547	Acc: 0.6188	Prec: 0.4587	Recall: 0.6196	 Fscore: 0.5272
+epoch: 17:
+train	Loss: 0.0541	Acc: 0.6347	Prec: 0.4726	Recall: 0.6122	 Fscore: 0.5334
+epoch: 17:
+val	Loss: 0.0528	Acc: 0.6204	Prec: 0.4691	Recall: 0.6604	 Fscore: 0.5486
+epoch: 18:
+train	Loss: 0.0525	Acc: 0.6399	Prec: 0.4848	Recall: 0.6393	 Fscore: 0.5514
+epoch: 18:
+val	Loss: 0.0511	Acc: 0.6355	Prec: 0.4866	Recall: 0.6769	 Fscore: 0.5662
+epoch: 19:
+train	Loss: 0.0507	Acc: 0.6506	Prec: 0.5011	Recall: 0.6660	 Fscore: 0.5719
+epoch: 19:
+val	Loss: 0.0492	Acc: 0.6385	Prec: 0.4959	Recall: 0.7058	 Fscore: 0.5826
