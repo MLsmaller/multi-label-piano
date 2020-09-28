@@ -241,6 +241,7 @@ def train(model):
             print('current epoch time cost {:.2f} minutes'.format((end_time-start_time)/60))
             print('\n')
 
+    
     print('Epoch {} has the best Acc is {} '.format(best_epoch, best_acc))
 
     f_out.close()

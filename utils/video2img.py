@@ -5,6 +5,9 @@ import numpy as np
 import argparse 
 from tqdm import tqdm 
 from IPython import embed
+import sys
+sys.path.append('../')
+from config import cfg
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--video',type=str,default=None)
@@ -24,16 +27,14 @@ def img2video(path,size=(1280,720)):
         vw.write(f_out)
     vw.release()
 
-def readvideo2flipvideo(video_path,save_path):
+def readvideo2flipvideo(video_path, save_path):
+    print(video_path)
     capture = cv2.VideoCapture(video_path)
     if not capture.isOpened():
         raise ValueError('read video wrong')
 
     fps = capture.get(cv2.CAP_PROP_FPS)
     total_frames = int(capture.get(cv2.CAP_PROP_FRAME_COUNT))
-    print(fps)
-    #return 
-    print(video_path)
     print("the fps is {}".format(fps))
     
     
@@ -46,22 +47,23 @@ def readvideo2flipvideo(video_path,save_path):
     
     count = 0
     txt_path = video_path.replace('.mp4', '.txt')
-    fout = open(txt_path, 'w')
+    # fout = open(txt_path, 'w')
     
+    file_seq = os.path.basename(video_path).split('.')[0]
     for idx in tqdm(range(total_frames)):
         ret,frame = capture.read()
         if not ret:
-            break 
-        # frame = cv2.flip(frame,-1)  #for Paper dataset
+            break
+        # if file_seq in cfg.flip:
+            # frame = cv2.flip(frame,-1)  #for Paper dataset
         f_img = Image.fromarray(frame)
         f_re = f_img.resize(list(size),resample=Image.NONE)
         f_out = np.array(f_re)
         save_img = os.path.join(save_img_dir, '{}.jpg'.format(str(count).zfill(4)))
-        fout.write('{}\n'.format(save_img))
+        # fout.write('{}\n'.format(save_img))
         cv2.imwrite(save_img,f_out)
         count += 1
-    fout.close()
-
+    # fout.close()
 
 def list_wmvdir(path,wmv_files):
     subpaths = [os.path.join(path,x) for x in os.listdir(path)]
@@ -80,7 +82,8 @@ def main(wmv_files):
             elif 'MP4' in video_path:
                 save_path = video_path.replace('MP4','mp4')
             else:
-                save_path=video_path
+                save_path = video_path
+            if '.MP4' in video_path: continue
             readvideo2flipvideo(video_path,save_path)
     else:
         save_path = wmv_files.replace('MP4','mp4')

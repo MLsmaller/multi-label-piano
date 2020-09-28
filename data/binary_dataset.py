@@ -100,10 +100,10 @@ class Binary_dataset(Dataset):
         return len(self.img_files)
 
 #---得到当前帧前后的连续几帧---
-def get_continue_path(path, end_frame,cur_frame, continuous_frame):
+def get_continue_path(path, begin_frame, end_frame, cur_frame, continuous_frame):
     sequence_imgs = []
     #---对于一开始的几帧----
-    if cur_frame - continuous_frame < 0:
+    if cur_frame - begin_frame < continuous_frame:
         temp_frame = cur_frame
         #---将前面的几帧补上
         while True:
@@ -233,13 +233,14 @@ class Time_dataset(Dataset):
             path = line[0]
             dir_name = os.path.dirname(path).split('/')[-1]
             file_seq = os.path.dirname(path).split('/')[-2]
-            end_frame=cfg.EVALUATE_MAP[file_seq]['end_frame']
+            begin_frame = cfg.EVALUATE_MAP[file_seq]['begin_frame']
+            end_frame = cfg.EVALUATE_MAP[file_seq]['end_frame']
             path = path.replace(dir_name, 'test_white_key')
             cur_img = cv2.imread(path)
             self.continuous_frame = int((self.k - 1) / 2)
             cur_frame = int(os.path.basename(path).split('.')[0].split('_')[0])
             #---对于刚开始的几帧，其之前没有对应帧
-            sequence_imgs = get_continue_path(path, end_frame, cur_frame, self.continuous_frame)
+            sequence_imgs = get_continue_path(path, begin_frame,end_frame, cur_frame, self.continuous_frame)
             seq_imgs = (sequence_imgs, key)
             img_lists.append(seq_imgs)
         return img_lists

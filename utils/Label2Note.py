@@ -27,6 +27,12 @@ def get_fps(video_path):
     fps=capture.get(cv2.CAP_PROP_FPS)
     return int(fps)
 
+def Rounding(frame):
+    Decimal, Integer = math.modf(frame)
+    res = math.ceil(frame) if Decimal - 0.5 > 0 else math.floor(frame)
+    return int(res)
+        
+
 #---将自己标的数据转换为note数据,level_4_no_01
 def ToNote(txt_path):
     with open(txt_path,'r',encoding='utf-8') as f:
@@ -59,7 +65,7 @@ def ToNote(txt_path):
 
     pro_onset = []
 
-    #---如果第一帧就有键陪按下，记录下来，后面是从第二帧开始的
+    #---如果第一帧就有键被按下，记录下来，后面是从第二帧开始的
     if not keys[0][0]==0:
         end_frame=0
         for j in range(1,len(times)):
@@ -69,6 +75,7 @@ def ToNote(txt_path):
         data = [int(times[0]/pframe_time),times[0], int(times[end_frame]/pframe_time),
                     times[end_frame],keys[0]] 
         pro_onset.append(data)
+    
 
     for i in range(1,len(times)):
         current_keys = set(keys[i])
@@ -88,11 +95,11 @@ def ToNote(txt_path):
                         end_frame = j 
                     else:break 
                 if count==0:  #--只在当前帧被按下  起始帧 、起始时间、结束帧、结束时间、按键
-                    data = [int(times[i]/pframe_time),times[i], int(times[end_frame]/pframe_time),
+                    data = [Rounding(times[i]/pframe_time),times[i], Rounding(times[end_frame]/pframe_time),
                             times[end_frame],pressed_key]
                 else :
-                    data = [int(times[i]/pframe_time),times[i], int(times[end_frame]/pframe_time),
-                            times[end_frame],pressed_key]
+                    data = [Rounding(times[i]/pframe_time),times[i], Rounding(times[end_frame]/pframe_time),
+                            times[end_frame], pressed_key]
                 pro_onset.append(data)
 
     if len(pro_onset) > 0:
@@ -123,7 +130,7 @@ def Pad_zero(txt_path):
     fout.close()
     
 
-def processMidi(midiPath, fps,midi_offset=2):
+def processMidi(midiPath, fps):
     mid = mido.MidiFile(midiPath)
     file_seq=os.path.basename(midiPath).split('.')[0]
     midi_offset=cfg.EVALUATE_MAP[file_seq]['midi_offset']
@@ -178,9 +185,11 @@ def save_midi(midiPath):
     pframe_time=1.0/fps
 
     _,pitch_onset_offset=processMidi(midiPath,fps)
-
-    note_path=os.path.join(cfg.label_save_path,file_seq+'_note.txt')
-    label_path=os.path.join(cfg.label_save_path,file_seq+'_label.txt')
+    label_save_path = os.path.join(os.path.dirname(midiPath), 'labels')
+    if not os.path.exists(label_save_path): os.makedirs(label_save_path)
+    print(label_save_path)
+    note_path=os.path.join(label_save_path,file_seq+'_note.txt')
+    label_path=os.path.join(label_save_path,file_seq+'_label.txt')
     with open(note_path,'w') as fout:
         for i,po in enumerate(pitch_onset_offset):
             # end_pitch
@@ -192,8 +201,8 @@ def save_midi(midiPath):
             end_frame = int(np.ceil(p2))
             data = 'frame{:0>4d}\t{:.2f}\tframe{:0>4d}\t{:.2f}\t{}\n'.format(count_frame,po[0],end_frame,po[1],po[2])
             fout.write(data)
-
-    img_path=os.path.join(cfg.label_save_path,'images/'+file_seq)
+    images_path = os.path.dirname(midiPath).replace('midi', 'images')
+    img_path = os.path.join(images_path, file_seq)
     img_lists=[os.path.join(img_path,x) for x in os.listdir(img_path)
                if x.endswith('.jpg')]
     img_lists.sort()
@@ -226,7 +235,7 @@ def save_midi(midiPath):
             fout.write('\n')
 
 if __name__=='__main__':
-    args=parser()
+    args = parser()
     args.label_path='/home/lj/cy/data/piano/new/videos/Tencent/labels'
     if args.label_path is not None:
         label_lists=[os.path.join(args.label_path,x) for x in os.listdir(args.label_path)
@@ -236,14 +245,27 @@ if __name__=='__main__':
             print(path)
             # Pad_zero(path)            
             ToNote(path)
-
+    
     #--这个midi_offset还不一定一样.0
-    # midi_path='/home/ccy/data/piano/videos/Paper/SightToSound_paper'
+    # args.midi_path = '/home/lj/cy/data/piano/new/videos/Record/midi'
     if args.midi_path is not None:
         midi_lists=[os.path.join(args.midi_path,x) for x in os.listdir(args.midi_path)
-                     if 'mid' in x] 
+                     if 'mid' in x or 'MID' in x]
         midi_lists.sort()
         for path in midi_lists:
             # if not '/27.mid' in path:continue
             print(path)
             save_midi(path)      
+    
+    # video_path = '/home/lj/cy/data/piano/new/videos/Record'
+    # midi_path = os.path.join(video_path, 'midi')
+    # videos = [os.path.basename(x).split('.')[0] for x in os.listdir(
+    #           video_path) if x.endswith('.mp4')]
+    # midi_file = [os.path.join(midi_path, x) for x in os.listdir(midi_path)
+    #              if x.endswith('.MID')]
+    # for midi in midi_file:
+    #     file_seq = os.path.basename(midi).split('.')[0]
+    #     if not file_seq in videos:
+    #         os.remove(midi)
+
+    

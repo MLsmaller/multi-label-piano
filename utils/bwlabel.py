@@ -93,6 +93,13 @@ class BwLabel(object):
                 del black_boxes[0]
                 del black_loc[0]
 
+        # for boxes in black_boxes:
+        #     x1,y1=boxes[0],boxes[1]
+        #     x2,y2=boxes[0]+boxes[2],boxes[1]+boxes[3]
+        #     cv2.rectangle(draw_img,(x1,y1),(x2,y2),(0,0,255),2)
+        # cv2.imwrite('./1.jpg', draw_img)
+        # embed()
+
         if not phase=='test':
             #---对于包含手的背景图，返回第3个黑键的高度
             return black_boxes[2][3]
@@ -179,14 +186,15 @@ class BwLabel(object):
     
     def find_black_boxes(self,ori_img):
         #---数据集的那些图像偏暗
-        thresh = 100
+        # thresh = 100
+        thresh = 120
         while True:
             base_img = ori_img.copy()
             base_img = cv2.cvtColor(base_img,cv2.COLOR_BGR2GRAY)
             base_img = remove_region(base_img)
             test_img=base_img.copy()
             _,base_img = cv2.threshold(base_img,thresh,255,cv2.THRESH_BINARY_INV)
-            
+            cv2.imwrite('./base_img.jpg', base_img)
             # kernel = np.ones((10,10), dtype=np.uint8)
             # cv2.imwrite('./base_img.jpg',base_img)
             # embed()
@@ -232,7 +240,6 @@ class BwLabel(object):
                 white_loc.append(keybegin1 + j * whitekey_width2)
             if i == 5:  #----最后一次循环将钢琴最后一个白键加上
                 white_loc.append(min(width - 1,keybegin1 + 8 * whitekey_width2))
-
             
         return white_loc 
 
@@ -285,13 +292,14 @@ class BwLabel(object):
         white_loc.sort()
         return white_loc 
 
-    def find_black_keys(self,base_img):
+    def find_black_keys(self, base_img):
         contours,_ = cv2.findContours(base_img,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
         black_boxes = []
-        height,width = base_img.shape[:2]
+        height, width = base_img.shape[:2]
+
         for idx,cnt in enumerate(contours):
-            (x,y,w,h) = cv2.boundingRect(cnt)
-            if h>height*0.3 and w>10:
+            (x, y, w, h) = cv2.boundingRect(cnt)
+            if h>height*0.3 and w>9:   #----键盘的长大于0.3*h,宽大于9
                 x1,y1,x2,y2 = x,y,x+w,y+h 
                 for i in range(y2,y1,-1):
                     count = 0 
@@ -300,7 +308,16 @@ class BwLabel(object):
                             count+=1 
                     if count > (x2-x1)*0.5:
                         black_boxes.append((x1,y1,w,i-y1))
-                        break 
+                        break
+        
+        # print(len(black_boxes))
+        # for boxes in black_boxes:
+        #     x1,y1=boxes[0],boxes[1]
+        #     x2,y2=boxes[0]+boxes[2],boxes[1]+boxes[3]
+        #     cv2.rectangle(ori_img1, (x1, y1), (x2, y2), (0, 0, 255), 2)
+        # cv2.imwrite('./ori_img1.jpg', ori_img1)
+            
+
         if len(black_boxes)!=36:
             ws = [box[2] for box in black_boxes]
             ws = np.array(ws)

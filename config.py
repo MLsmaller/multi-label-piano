@@ -2,6 +2,10 @@
 import os
 import numpy as np
 from easydict import EasyDict
+import sys
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__)))
+from IPython import embed
+sys.path.append(PROJECT_ROOT)
 
 _C=EasyDict()
 cfg=_C
@@ -11,8 +15,10 @@ _C.black_num = [2, 5, 7, 10, 12, 14, 17, 19, 22, 24, 26, 29,
                 60, 62, 65, 67, 70, 72, 74, 77, 79, 82, 84, 86]
 _C.white_num = [x for x in range(1, 89) if x not in cfg.black_num]
 
+
 _C.SightToSound_paper_path='/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/images'
 _C.Tencent_path='/home/lj/cy/data/piano/new/videos/Tencent/images'
+_C.Record_path = '/home/lj/cy/data/piano/new/videos/Record/images'
 _C.SAVE_IMG_DIR='/home/lj/cy/data/piano/new/saved/YouTube'
 
 _C.label_save_path='/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper'
@@ -45,8 +51,6 @@ _C.lr_mult_b=20
 
 _C.pretrained_path='/home/lj/cy/project/piano/vision-piano-amt-master/backup/multi_label/checkpoints/resnet18.pth'
 
-#---这些视频的背景帧是有手的
-_C.file_loc=['10','25','level_4_no_02']
 _C.black_white_loc={
         '10':{'black_boxes':[[43, 24, 30, 56],[106, 24, 30, 56],[150, 24, 29, 56],[214, 24, 28, 56],[255, 24, 28, 56],[297, 24, 28, 56],
                              [361, 24, 27, 56],[405, 24, 27, 56],[469, 24, 25, 56],[510, 24, 24, 56],[551, 24, 25, 56],[612, 24, 26, 56],
@@ -69,25 +73,46 @@ _C.black_white_loc={
 _C.train_txt_path='/home/lj/cy/project/piano/vision-piano-amt-master/backup/multi_label/data/train.txt'
 _C.val_txt_path='/home/lj/cy/project/piano/vision-piano-amt-master/backup/multi_label/data/val.txt'
 
+#---这些视频的背景帧是有手的
+_C.file_loc = ['10', '25']
 
 #---只将钢琴键盘区域送进网络中训练
 _C.crop_file_seq=['level_2_no_01','level_4_no_01']
 _C.EVALUATE_MAP = {
         ### Tencent video  第一个rect是包含键盘以及键盘下方的区域(用以训练数据)，keyboard_rect是只包含键盘的(用以连通算法得到黑键和白键的位置)
         #---end_frame即表示该帧以后的图像不再包括钢琴图像
-        'level_2_no_01':{'base_frame':613,'end_frame':617,'label_path':'/home/lj/cy/data/piano/new/videos/Tencent/labels/level_2_no_01_label.txt','fps':25,'midi_offset':0,'rect':[28,497,1267,713],'keyboard_rect':[33,498,1258,639]},  #--x1,y1,x2,y2，
-        'level_4_no_01': {'base_frame': 1674,'end_frame':1679, 'label_path': '/home/lj/cy/data/piano/new/videos/Tencent/labels/level_4_no_01_label.txt', 'fps': 25, 'midi_offset': 0, 'rect': [29, 514, 1254, 720], 'keyboard_rect': [31, 517, 1247, 663]},
-        'level_2_no_02': {'base_frame': 857, 'end_frame':867,'label_path': '/home/lj/cy/data/piano/new/videos/Tencent/labels/level_2_no_02_label.txt', 'fps': 25, 'keyboard_rect': [36, 499, 1248, 635]},
-        'level_4_no_02': {'base_frame': 900, 'end_frame':2070,'label_path': '/home/lj/cy/data/piano/new/videos/Tencent/level_4_no_02_label.txt', 'fps': 25,'keyboard_crop':120,'keyboard_rect':[37,521,1249,660]},
+        'level_1_no_02':{'base_frame':117,'begin_frame':1012,'end_frame':1012,'label_path':'/home/lj/cy/data/piano/new/videos/Tencent/labels/level_1_no_02_label.txt','fps':25,'midi_offset':0,'rect':[28,497,1267,713],'keyboard_rect':[33,498,1258,639]},  #--x1,y1,x2,y2，
+        'level_1_no_04': {'base_frame': 117, 'begin_frame':1012,'end_frame': 962, 'label_path': '/home/lj/cy/data/piano/new/videos/Tencent/labels/level_1_no_04_label.txt', 'fps': 25, 'midi_offset': 0, 'rect': [29, 514, 1254, 720], 'keyboard_rect': [31, 517, 1247, 663]},
+        'level_1_no_05': {'base_frame': 117, 'begin_frame':1012,'end_frame': 1096, 'label_path': '/home/lj/cy/data/piano/new/videos/Tencent/labels/level_1_no_05_label.txt', 'fps': 25, 'midi_offset': 0, 'rect': [29, 514, 1254, 720], 'keyboard_rect': [31, 517, 1247, 663]},
         
-        '10':{'base_frame':564,'end_frame':3651,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/10_label.txt','fps':29.69,'midi_offset':0.457,'keyboard_crop':120,'keyboard_rect':[14,19,1862,240]}, #--x1,y1,x2,y2
-        '21':{'base_frame':2623,'end_frame':2623,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/21_label.txt','fps':29.69,'midi_offset':5.153,'keyboard_crop':120,'keyboard_rect':[10,2,1865,218]}, 
-        '23':{'base_frame':3620,'end_frame':3622,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/23_label.txt','fps':29.69,'midi_offset':0.2854,'keyboard_crop':120,'keyboard_rect':[14,25,1870,241]}, 
-        '24':{'base_frame':3321,'end_frame':3325,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/24_label.txt','fps':29.69,'midi_offset':0.3192,'keyboard_crop':120,'keyboard_rect':[0,0,1865,221]},
-        '25':{'base_frame':686,'end_frame':1959,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/25_label.txt','fps':29.69,'midi_offset':0.35297,'keyboard_crop':120,'keyboard_rect':[2,8,1870,227]}, 
-        '26':{'base_frame':2103,'end_frame':2107,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/26_label.txt','fps':29.69,'midi_offset':0.4881,'keyboard_crop':120,'keyboard_rect':[0,7,1860,232]}, 
-        '27':{'base_frame':2460,'end_frame':2464,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/27_label.txt','fps':29.69,'midi_offset':0.3868,'keyboard_crop':120,'keyboard_rect':[2,15,1839,234]}, 
-        '5':{'base_frame':3732,'end_frame':3740,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt','fps':29.69,'midi_offset':0.2854,'keyboard_crop':120,'keyboard_rect':[12,16,1367,181]}        
+        'level_2_no_01':{'base_frame':0,'begin_frame':1012,'end_frame':617,'label_path':'/home/lj/cy/data/piano/new/videos/Tencent/labels/level_2_no_01_label.txt','fps':25,'midi_offset':0,'rect':[28,497,1267,713],'keyboard_rect':[33,498,1258,639]},  #--x1,y1,x2,y2，
+        'level_4_no_01': {'base_frame': 0,'begin_frame':1012,'end_frame':1679, 'label_path': '/home/lj/cy/data/piano/new/videos/Tencent/labels/level_4_no_01_label.txt', 'fps': 25, 'midi_offset': 0, 'rect': [29, 514, 1254, 720], 'keyboard_rect': [31, 517, 1247, 663]},
+        'level_2_no_02': {'base_frame': 0, 'begin_frame':1012,'end_frame':867,'label_path': '/home/lj/cy/data/piano/new/videos/Tencent/labels/level_2_no_02_label.txt', 'fps': 25, 'keyboard_rect': [36, 499, 1248, 635]},
+        'level_4_no_02': {'base_frame': 0, 'begin_frame':1012,'end_frame':2070,'label_path': '/home/lj/cy/data/piano/new/videos/Tencent/labels/level_4_no_02_label.txt', 'fps': 25,'keyboard_crop':120,'keyboard_rect':[37,521,1249,660]},
+        
+        '10':{'base_frame':564,'begin_frame':0,'end_frame':3651,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/10_label.txt','fps':29.69,'midi_offset':0.457,'keyboard_crop':120,'keyboard_rect':[14,19,1862,240]}, #--x1,y1,x2,y2
+        '21':{'base_frame':2623,'begin_frame':0,'end_frame':2623,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/21_label.txt','fps':29.69,'midi_offset':5.153,'keyboard_rect':[10,2,1865,218]}, 
+        '23':{'base_frame':3620,'begin_frame':0,'end_frame':3622,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/23_label.txt','fps':29.69,'midi_offset':0.2854,'keyboard_rect':[14,25,1870,241]}, 
+        '24':{'base_frame':3321,'begin_frame':0,'end_frame':3325,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/24_label.txt','fps':29.69,'midi_offset':0.3192,'keyboard_rect':[0,0,1865,221]},
+        '25': {'base_frame': 686, 'begin_frame':0,'end_frame': 1959, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/25_label.txt', 'fps': 29.69, 'midi_offset': 0.35297, 'keyboard_crop': 120, 'keyboard_rect': [2, 8, 1870, 227]},
+        '26':{'base_frame':2103,'begin_frame':0,'end_frame':2107,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/26_label.txt','fps':29.69,'midi_offset':0.4881,'keyboard_rect':[0,7,1860,232]}, 
+        '27':{'base_frame':2460,'begin_frame':0,'end_frame':2464,'label_path':'/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/27_label.txt','fps':29.69,'midi_offset':0.3868,'keyboard_rect':[2,15,1839,234]}, 
+        '5': {'base_frame': 3732, 'begin_frame':0,'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 29.69, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        
+        '1-white': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 25, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        '2-black': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 25, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        '4-mix': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 25, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'Chord': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 25, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'ExtraLightBlack': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 24, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'ExtraLightWhite': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 24, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'blackWhite': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 25, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'litM_camM_kb30': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 25, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'litM_camM_kbM30': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 25, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'litM_camR_kb0': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 25, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'originwhite': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 24, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'random2': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 24, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'random3': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 24, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]},
+        'random4': {'base_frame': 3732, 'end_frame': 3740, 'label_path': '/home/lj/cy/data/piano/new/videos/Paper/SightToSound_paper/5_label.txt', 'fps': 24, 'midi_offset': 0.2854, 'keyboard_rect': [12, 16, 1367, 181]}
 }
 
 
@@ -105,6 +130,7 @@ _C.pos_binary_ckpt_path = '/home/lj/cy/project/piano/vision-piano-amt-master/bac
 # _C.time_ckpt_path = '/home/lj/cy/project/piano/vision-piano-amt-master/backup/multi_label/checkpoints/time_keys_epoch_25_Acc_0.985.pth'
 #--这个是lr=0.01,然后lr_decay_in_epoch=5训练得到的,每隔5个epoch学习率下降
 _C.time_ckpt_path = '/home/lj/cy/project/piano/vision-piano-amt-master/backup/multi_label/checkpoints/time_keys_epoch_18_Acc_0.982.pth'
+# _C.time_ckpt_path = '/home/lj/cy/project/piano/vision-piano-amt-master/backup/multi_label/checkpoints/time_keys_epoch_26_Acc_0.982.pth'
 _C.time_pos_ckpt_path = '/home/lj/cy/project/piano/vision-piano-amt-master/backup/multi_label/checkpoints/time_with_pos_keys_epoch_25_Acc_0.981.pth'
 
 
@@ -125,7 +151,7 @@ _C.neg_img_selece_ratio=0.7  #---自己选取的负样本/当前帧其他的负�
 _C.One_key_SAVE_IMG_DIR = '/home/lj/cy/data/piano/new/saved/YouTube/train'
 #---用以测试模型的视频图像存储路径
 _C.Test_Key_Dir = '/home/lj/cy/data/piano/new/saved/YouTube/'
-_C.Test_video = ['level_4_no_02', 'level_2_no_02']
+_C.Test_video = ['level_4_no_02', 'level_2_no_02', 'level_1_no_02', '25', '26']
 #---label path(训练二分类)
 _C.binary_path = '/home/lj/cy/project/piano/vision-piano-amt-master/backup/multi_label/data/binary_label'
 
@@ -135,3 +161,50 @@ _C.split = [27, 57]
 
 #----------训练时间信息的二分类模型配置------------
 cfg.Consecutive_frames = 5
+
+#分割模型的相关设置
+_C.weights_path = '/home/lj/cy/data/piano/weights'
+_C.MEAN = [0.45734706, 0.43338275, 0.40058118]
+_C.STD = [0.23965294, 0.23532275, 0.2398498]
+##keyboard config 
+_C.KEYBOARD_MODEL = os.path.join(cfg.weights_path, 'keyboard.pth')
+_C.KEYBOARD_PALETTE = [0,0,0,64,0,128]
+_C.KEYBOARD_NUM_CLASSES = 2
+
+## hand segment 
+_C.HAND_SEG_MODEL = os.path.join(cfg.weights_path, 'seg_hand.pth')
+_C.HAND_SEG_PALETTE = [0,0,0,64,0,128]
+_C.HAND_SEG_NUM_CLASSES = 2
+
+#video base frame
+_C.BASE_FRAME={
+        'level_2_no_01':{'base_frame':617}, 
+        'level_2_no_02':{'base_frame':867}, 
+        'level_4_no_01':{'base_frame':1679}, 
+        'level_4_no_02': {'base_frame': 2070},
+        'level_1_no_02': {'base_frame': 1012},
+        'level_1_no_04': {'base_frame': 962},
+        'level_1_no_05': {'base_frame': 1096}
+}
+
+#---裁剪单个按键的边框offset设置
+_C.offset = {
+        'level': {
+                'w_offset': 4,  #--白键左右宽度扩展
+                'b_offset': 3,  #---黑键左右宽度扩展
+                #--相当于白键不是键盘图像的最上方开始crop,偏移了一点
+                'y_begin': 4,
+                #---即黑键的下边界延长一点
+                'y2_offset': 2
+        },
+        'paper': {
+                'w_offset': 5,
+                'b_offset': 4,
+                'y_begin': 4,
+                'y2_offset': 4                
+        }
+}
+
+
+#-----Record video----
+_C.record_label_path = '/home/lj/cy/data/piano/new/videos/Record/midi/labels'
