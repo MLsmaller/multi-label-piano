@@ -1,0 +1,2196 @@
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0000.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0001.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0002.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0003.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0004.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0005.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0006.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0007.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0008.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0009.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0010.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0011.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0012.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0013.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0014.jpg 29 41 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0015.jpg 29 41
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0016.jpg 29 41
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0017.jpg 29 41
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0018.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0019.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0020.jpg 29 41 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0021.jpg 29 41 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0022.jpg 29 41 
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0023.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0024.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0025.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0026.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0027.jpg 30 41
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0028.jpg 29 41
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0029.jpg 30 41 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0030.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0031.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0032.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0033.jpg 29 41
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0034.jpg 29 41
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0035.jpg 29 41 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0036.jpg 29 41 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0037.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0038.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0039.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0040.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0041.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0042.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0043.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0044.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0045.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0046.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0047.jpg 30 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0048.jpg 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0049.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0050.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0051.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0052.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0053.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0054.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0055.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0056.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0057.jpg 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0058.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0059.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0060.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0061.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0062.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0063.jpg 49 52 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0064.jpg 49 52 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0065.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0066.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0067.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0068.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0069.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0070.jpg 49 52 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0071.jpg 49 52 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0072.jpg 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0073.jpg 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0074.jpg 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0075.jpg 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0076.jpg 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0077.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0078.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0079.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0080.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0081.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0082.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0083.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0084.jpg 47 51 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0085.jpg 47 51 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0086.jpg 47 51 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0087.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0088.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0089.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0090.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0091.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0092.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0093.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0094.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0095.jpg 42 47 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0096.jpg 42 47 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0097.jpg 42 47 49 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0098.jpg 42 49 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0099.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0100.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0101.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0102.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0103.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0104.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0105.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0106.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0107.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0108.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0109.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0110.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0111.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0112.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0113.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0114.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0115.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0116.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0117.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0118.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0119.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0120.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0121.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0122.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0123.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0124.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0125.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0126.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0127.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0128.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0129.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0130.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0131.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0132.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0133.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0134.jpg 42 49 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0135.jpg 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0136.jpg 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0137.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0138.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0139.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0140.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0141.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0142.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0143.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0144.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0145.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0146.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0147.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0148.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0149.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0150.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0151.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0152.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0153.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0154.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0155.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0156.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0157.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0158.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0159.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0160.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0161.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0162.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0163.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0164.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0165.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0166.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0167.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0168.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0169.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0170.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0171.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0172.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0173.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0174.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0175.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0176.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0177.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0178.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0179.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0180.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0181.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0182.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0183.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0184.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0185.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0186.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0187.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0188.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0189.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0190.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0191.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0192.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0193.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0194.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0195.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0196.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0197.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0198.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0199.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0200.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0201.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0202.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0203.jpg 35 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0204.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0205.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0206.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0207.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0208.jpg 35 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0209.jpg 35 39 42 54 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0210.jpg 39 42 54 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0211.jpg 39 42 54 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0212.jpg 39 42 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0213.jpg 39 42 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0214.jpg 39 39 42 63 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0215.jpg 35 39 56 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0216.jpg 35 39 56 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0217.jpg 35 39 56 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0218.jpg 35 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0219.jpg 35 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0220.jpg 35 39 42 54 63 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0221.jpg 35 39 42 54 63 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0222.jpg 39 42 54 63 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0223.jpg 39 42 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0224.jpg 39 42 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0225.jpg 39 42 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0226.jpg 39 42 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0227.jpg 37 39 42 61 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0228.jpg 37 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0229.jpg 37 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0230.jpg 37 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0231.jpg 37 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0232.jpg 37 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0233.jpg 37 40 42 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0234.jpg 40 42 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0235.jpg 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0236.jpg 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0237.jpg 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0238.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0239.jpg 40 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0240.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0241.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0242.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0243.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0244.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0245.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0246.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0247.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0248.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0249.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0250.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0251.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0252.jpg 46 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0253.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0254.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0255.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0256.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0257.jpg 37 40
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0258.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0259.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0260.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0261.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0262.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0263.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0264.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0265.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0266.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0267.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0268.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0269.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0270.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0271.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0272.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0273.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0274.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0275.jpg 49 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0276.jpg 49 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0277.jpg 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0278.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0279.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0280.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0281.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0282.jpg 37 40
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0283.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0284.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0285.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0286.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0287.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0288.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0289.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0290.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0291.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0292.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0293.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0294.jpg 49 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0295.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0296.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0297.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0298.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0299.jpg 30 46 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0300.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0301.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0302.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0303.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0304.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0305.jpg 34 30 40 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0306.jpg 34 30 40 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0307.jpg 34 40 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0308.jpg 34 40 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0309.jpg 34 40 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0310.jpg 34 40 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0311.jpg 34 40 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0312.jpg 34 30 54 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0313.jpg 30 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0314.jpg 30 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0315.jpg 30 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0316.jpg 30 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0317.jpg 30 34 40 52 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0318.jpg 34 40 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0319.jpg 40 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0320.jpg 40 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0321.jpg 40 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0322.jpg 40 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0323.jpg 35 51 59 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0324.jpg 35 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0325.jpg 35 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0326.jpg 35 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0327.jpg 35 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0328.jpg 35 39 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0329.jpg 35 39 42 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0330.jpg 39 42 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0331.jpg 39 42 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0332.jpg 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0333.jpg 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0334.jpg 39 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0335.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0336.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0337.jpg 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0338.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0339.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0340.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0341.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0342.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0343.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0344.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0345.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0346.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0347.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0348.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0349.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0350.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0351.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0352.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0353.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0354.jpg 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0355.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0356.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0357.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0358.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0359.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0360.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0361.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0362.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0363.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0364.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0365.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0366.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0367.jpg 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0368.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0369.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0370.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0371.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0372.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0373.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0374.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0375.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0376.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0377.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0378.jpg 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0379.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0380.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0381.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0382.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0383.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0384.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0385.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0386.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0387.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0388.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0389.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0390.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0391.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0392.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0393.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0394.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0395.jpg 35 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0396.jpg 35 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0397.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0398.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0399.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0400.jpg 35 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0401.jpg 35 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0402.jpg 39 42 54 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0403.jpg 39 42 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0404.jpg 39 42 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0405.jpg 39 42 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0406.jpg 39 42 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0407.jpg 36 39 42 56 63 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0408.jpg 36 56 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0409.jpg 36 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0410.jpg 36 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0411.jpg 36 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0412.jpg 36 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0413.jpg 39 44 54 63 64
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0414.jpg 39 44 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0415.jpg 39 44 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0416.jpg 39 44 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0417.jpg 39 44 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0418.jpg 37 39 44 52 61 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0419.jpg 37 39 52 61 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0420.jpg 37 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0421.jpg 37 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0422.jpg 37 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0423.jpg 37 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0424.jpg 37 40 44 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0425.jpg 37 40 44 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0426.jpg 37 40 44 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0427.jpg 44 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0428.jpg 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0429.jpg 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0430.jpg 40 44 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0431.jpg 40 44 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0432.jpg 40 44 52 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0433.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0434.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0435.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0436.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0437.jpg 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0438.jpg 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0439.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0440.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0441.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0442.jpg 28
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0443.jpg 28 52 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0444.jpg 28
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0445.jpg 28
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0446.jpg 28
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0447.jpg 28
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0448.jpg 32 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0449.jpg 32 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0450.jpg 32 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0451.jpg 32 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0452.jpg 32 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0453.jpg 28 32 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0454.jpg 28 52 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0455.jpg 28 52 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0456.jpg 28 52 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0457.jpg 28
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0458.jpg 28
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0459.jpg 28 32 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0460.jpg 32 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0461.jpg 32 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0462.jpg 32 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0463.jpg 32 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0464.jpg 32 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0465.jpg 30 32 37 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0466.jpg 30 32 37 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0467.jpg 30 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0468.jpg 30 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0469.jpg 30 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0470.jpg 30 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0471.jpg 30 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0472.jpg 30 35 39 51 54 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0473.jpg 30 35 39 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0474.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0475.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0476.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0477.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0478.jpg 30 35 39 51 54 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0479.jpg 30 35 39 51 54 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0480.jpg 30 51 54 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0481.jpg 30 51 54 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0482.jpg 30 51 54 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0483.jpg 30 35 39 51 54 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0484.jpg 35 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0485.jpg 35 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0486.jpg 35 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0487.jpg 35 39 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0488.jpg 30 39 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0489.jpg 58 30 39 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0490.jpg 58 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0491.jpg 58 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0492.jpg 58 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0493.jpg 58 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0494.jpg 58 30 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0495.jpg 58 30 37 40 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0496.jpg 58 30 37 40 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0497.jpg 37 40 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0498.jpg 37 40 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0499.jpg 37 40 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0500.jpg 30 37 40
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0501.jpg 30 37 40
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0502.jpg 30 37 40 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0503.jpg 30 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0504.jpg 30 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0505.jpg 30 37 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0506.jpg 30 37 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0507.jpg 37 40 66 
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0508.jpg 40
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0509.jpg 58 40
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0510.jpg 58 40
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0511.jpg 58 40
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0512.jpg 58 35 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0513.jpg 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0514.jpg 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0515.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0516.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0517.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0518.jpg 35 39 54 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0519.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0520.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0521.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0522.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0523.jpg 35 39 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0524.jpg 35 39 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0525.jpg 35 39 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0526.jpg 35 39 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0527.jpg 35 39 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0528.jpg 35 39 51 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0529.jpg 35 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0530.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0531.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0532.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0533.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0534.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0535.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0536.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0537.jpg 30 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0538.jpg 30 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0539.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0540.jpg 30 47
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0541.jpg 30 47
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0542.jpg 30 34 37 47
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0543.jpg 30 48 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0544.jpg 30 48
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0545.jpg 30 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0546.jpg 30 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0547.jpg 30 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0548.jpg 30 37 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0549.jpg 30 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0550.jpg 30 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0551.jpg 30 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0552.jpg 30 49 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0553.jpg 49 30 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0554.jpg 48 30 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0555.jpg 48 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0556.jpg 48 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0557.jpg 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0558.jpg 30 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0559.jpg 30 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0560.jpg 30 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0561.jpg 30 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0562.jpg 30 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0563.jpg 30 34 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0564.jpg 30 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0565.jpg 30 34 37 54 
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0566.jpg 30 34 37 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0567.jpg 30 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0568.jpg 30 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0569.jpg 30 34 37 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0570.jpg 58 30 34 37 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0571.jpg 58 30 34 37 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0572.jpg 58 30 34 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0573.jpg 58 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0574.jpg 58 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0575.jpg 58 30 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0576.jpg 58 30 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0577.jpg 58 30 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0578.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0579.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0580.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0581.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0582.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0583.jpg 30 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0584.jpg 30 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0585.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0586.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0587.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0588.jpg 34 30 37 61 
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0589.jpg 34 30 37 61 
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0590.jpg 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0591.jpg 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0592.jpg 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0593.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0594.jpg 30 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0595.jpg 30 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0596.jpg 30 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0597.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0598.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0599.jpg 30 34 37 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0600.jpg 30 34 37 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0601.jpg 30 34 37 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0602.jpg 30 34 37 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0603.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0604.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0605.jpg 32 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0606.jpg 32 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0607.jpg 32 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0608.jpg 32 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0609.jpg 32 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0610.jpg 32 53 35 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0611.jpg 32 53 35 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0612.jpg 32 53 35 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0613.jpg 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0614.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0615.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0616.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0617.jpg 35 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0618.jpg 35 37 53 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0619.jpg 35 37 53 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0620.jpg 35 37 53 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0621.jpg 35 37 53 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0622.jpg 35 37 53 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0623.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0624.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0625.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0626.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0627.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0628.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0629.jpg 25 44
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0630.jpg 25 44
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0631.jpg 25 44
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0632.jpg 25 44
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0633.jpg 25 45
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0634.jpg 25 32 45
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0635.jpg 25 32 35 46 45
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0636.jpg 25 32 35 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0637.jpg 25 32 35 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0638.jpg 25 47
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0639.jpg 25 47
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0640.jpg 25 32 35 48
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0641.jpg 25 32 35 48
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0642.jpg 25 32 35 48
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0643.jpg 25
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0644.jpg 25 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0645.jpg 25 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0646.jpg 50 25 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0647.jpg 50 25 32 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0648.jpg 50
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0649.jpg 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0650.jpg 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0651.jpg 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0652.jpg 25 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0653.jpg 25 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0654.jpg 25 52
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0655.jpg 25 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0656.jpg 25 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0657.jpg 25
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0658.jpg 25 32 35 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0659.jpg 25 35 54 
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0660.jpg 25 55
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0661.jpg 25 55
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0662.jpg 25 55
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0663.jpg 25 55 32 35 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0664.jpg 25 55 32 35 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0665.jpg 25 55 32 35 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0666.jpg 25 55 32 35 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0667.jpg 25 55 35 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0668.jpg 25 55 35 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0669.jpg 25 55 32 35 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0670.jpg 32 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0671.jpg 32 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0672.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0673.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0674.jpg 25
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0675.jpg 25 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0676.jpg 25 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0677.jpg 25 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0678.jpg 25
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0679.jpg 25
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0680.jpg 25 29 35 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0681.jpg 25 29 35 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0682.jpg 25 29 35 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0683.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0684.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0685.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0686.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0687.jpg 25 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0688.jpg 25
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0689.jpg 25
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0690.jpg 25
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0691.jpg 25
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0692.jpg 25
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0693.jpg 35 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0694.jpg 35 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0695.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0696.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0697.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0698.jpg 30 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0699.jpg 30 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0700.jpg 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0701.jpg 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0702.jpg 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0703.jpg 34 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0704.jpg 34 58 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0705.jpg 34 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0706.jpg 34 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0707.jpg 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0708.jpg 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0709.jpg 34 58 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0710.jpg 34 37 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0711.jpg 34 37 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0712.jpg 34 37 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0713.jpg 34 37 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0714.jpg 34 37 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0715.jpg 34 37 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0716.jpg 34 37 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0717.jpg 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0718.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0719.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0720.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0721.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0722.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0723.jpg 30 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0724.jpg 30 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0725.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0726.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0727.jpg 30 47
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0728.jpg 30 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0729.jpg 48 30 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0730.jpg 48 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0731.jpg 48 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0732.jpg 30 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0733.jpg 30 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0734.jpg 30 37 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0735.jpg 30 37 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0736.jpg 30 37 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0737.jpg 30 51 
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0738.jpg 30 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0739.jpg 34 30 37 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0740.jpg 34 48 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0741.jpg 34 48 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0742.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0743.jpg 49 
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0744.jpg 30 49
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0745.jpg 30 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0746.jpg 30 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0747.jpg 30 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0748.jpg 30 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0749.jpg 34 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0750.jpg 34 30 37 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0751.jpg 34 30 37 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0752.jpg 34 30 37 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0753.jpg 30 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0754.jpg 30 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0755.jpg 58 30 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0756.jpg 58 30 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0757.jpg 58 30 34 37 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0758.jpg 58 30 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0759.jpg 58 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0760.jpg 58 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0761.jpg 58 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0762.jpg 58 30 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0763.jpg 34 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0764.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0765.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0766.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0767.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0768.jpg 30 37 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0769.jpg 30 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0770.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0771.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0772.jpg 30
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0773.jpg 34 30 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0774.jpg 34 30 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0775.jpg 34 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0776.jpg 34 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0777.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0778.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0779.jpg 34 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0780.jpg 34 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0781.jpg 34 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0782.jpg 34 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0783.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0784.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0785.jpg 37 42 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0786.jpg 37 42 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0787.jpg 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0788.jpg 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0789.jpg 54 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0790.jpg 35 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0791.jpg 35 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0792.jpg 35 53 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0793.jpg 35 53 
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0794.jpg 35 53
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0795.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0796.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0797.jpg 35 39 44 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0798.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0799.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0800.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0801.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0802.jpg 35 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0803.jpg 35 39 44 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0804.jpg 35 39 44 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0805.jpg 35 39 44 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0806.jpg 35 39 44 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0807.jpg 35 39 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0808.jpg 35 39 44 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0809.jpg 35 39 44 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0810.jpg 35 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0811.jpg 35 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0812.jpg 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0813.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0814.jpg 35 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0815.jpg 35 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0816.jpg 35 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0817.jpg 35 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0818.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0819.jpg 35 39 44 68
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0820.jpg 35 39 44 68
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0821.jpg 35 39 44 68
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0822.jpg 39 44 68
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0823.jpg 39 44
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0824.jpg 39 44
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0825.jpg 35 39 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0826.jpg 35 39 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0827.jpg 35 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0828.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0829.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0830.jpg 35 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0831.jpg 35 39
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0832.jpg 35 39 44 68
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0833.jpg 44
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0834.jpg 44
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0835.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0836.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0837.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0838.jpg 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0839.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0840.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0841.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0842.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0843.jpg 37 42 46 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0844.jpg 42 46 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0845.jpg 42 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0846.jpg 42 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0847.jpg 42 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0848.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0849.jpg 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0850.jpg 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0851.jpg 37 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0852.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0853.jpg 37
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0854.jpg 37 42 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0855.jpg 37 42 46 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0856.jpg 37 42 46 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0857.jpg 42 46 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0858.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0859.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0860.jpg 37 65
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0861.jpg 37 65
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0862.jpg 37 65
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0863.jpg 37 65 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0864.jpg 37 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0865.jpg 37 41 47 65 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0866.jpg 37 41 47 65 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0867.jpg 37 41 47 65 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0868.jpg 37 63 66
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0869.jpg 37 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0870.jpg 37 47 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0871.jpg 37 47 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0872.jpg 37 47 61 63
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0873.jpg 37 59 61
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0874.jpg 37 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0875.jpg 37 47 41 59
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0876.jpg 37 47 41
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0877.jpg 58 47 41
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0878.jpg 58 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0879.jpg 58 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0880.jpg 58 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0881.jpg 58 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0882.jpg 58 42 54 46 56
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0883.jpg 54 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0884.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0885.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0886.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0887.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0888.jpg 58 42 46
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0889.jpg 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0890.jpg 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0891.jpg 58
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0892.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0893.jpg 46 42 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0894.jpg 46 42 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0895.jpg 42 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0896.jpg 42 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0897.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0898.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0899.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0900.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0901.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0902.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0903.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0904.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0905.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0906.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0907.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0908.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0909.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0910.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0911.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0912.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0913.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0914.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0915.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0916.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0917.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0918.jpg 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0919.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0920.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0921.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0922.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0923.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0924.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0925.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0926.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0927.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0928.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0929.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0930.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0931.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0932.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0933.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0934.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0935.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0936.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0937.jpg 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0938.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0939.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0940.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0941.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0942.jpg 39 42
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0943.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0944.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0945.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0946.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0947.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0948.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0949.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0950.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0951.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0952.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0953.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0954.jpg 51 54
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0955.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0956.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0957.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0958.jpg 35
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0959.jpg 35 47 51
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0960.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0961.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0962.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0963.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0964.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0965.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0966.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0967.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0968.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0969.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0970.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0971.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0972.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0973.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0974.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0975.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0976.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0977.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0978.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0979.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0980.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0981.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0982.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0983.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0984.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0985.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0986.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0987.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0988.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0989.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0990.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0991.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0992.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0993.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0994.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0995.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0996.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0997.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0998.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/0999.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1000.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1001.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1002.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1003.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1004.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1005.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1006.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1007.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1008.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1009.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1010.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1011.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1012.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1013.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1014.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1015.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1016.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1017.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1018.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1019.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1020.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1021.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1022.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1023.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1024.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1025.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1026.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1027.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1028.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1029.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1030.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1031.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1032.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1033.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1034.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1035.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1036.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1037.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1038.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1039.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1040.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1041.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1042.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1043.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1044.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1045.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1046.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1047.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1048.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1049.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1050.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1051.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1052.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1053.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1054.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1055.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1056.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1057.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1058.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1059.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1060.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1061.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1062.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1063.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1064.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1065.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1066.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1067.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1068.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1069.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1070.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1071.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1072.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1073.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1074.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1075.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1076.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1077.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1078.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1079.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1080.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1081.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1082.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1083.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1084.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1085.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1086.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1087.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1088.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1089.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1090.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1091.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1092.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1093.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1094.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1095.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1096.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1097.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1098.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1099.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1100.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1101.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1102.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1103.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1104.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1105.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1106.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1107.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1108.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1109.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1110.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1111.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1112.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1113.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1114.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1115.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1116.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1117.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1118.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1119.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1120.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1121.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1122.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1123.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1124.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1125.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1126.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1127.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1128.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1129.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1130.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1131.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1132.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1133.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1134.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1135.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1136.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1137.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1138.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1139.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1140.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1141.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1142.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1143.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1144.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1145.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1146.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1147.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1148.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1149.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1150.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1151.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1152.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1153.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1154.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1155.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1156.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1157.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1158.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1159.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1160.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1161.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1162.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1163.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1164.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1165.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1166.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1167.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1168.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1169.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1170.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1171.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1172.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1173.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1174.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1175.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1176.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1177.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1178.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1179.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1180.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1181.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1182.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1183.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1184.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1185.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1186.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1187.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1188.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1189.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1190.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1191.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1192.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1193.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1194.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1195.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1196.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1197.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1198.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1199.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1200.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1201.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1202.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1203.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1204.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1205.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1206.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1207.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1208.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1209.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1210.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1211.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1212.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1213.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1214.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1215.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1216.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1217.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1218.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1219.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1220.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1221.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1222.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1223.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1224.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1225.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1226.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1227.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1228.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1229.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1230.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1231.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1232.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1233.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1234.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1235.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1236.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1237.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1238.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1239.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1240.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1241.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1242.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1243.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1244.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1245.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1246.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1247.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1248.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1249.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1250.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1251.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1252.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1253.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1254.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1255.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1256.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1257.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1258.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1259.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1260.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1261.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1262.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1263.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1264.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1265.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1266.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1267.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1268.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1269.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1270.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1271.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1272.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1273.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1274.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1275.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1276.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1277.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1278.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1279.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1280.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1281.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1282.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1283.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1284.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1285.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1286.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1287.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1288.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1289.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1290.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1291.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1292.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1293.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1294.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1295.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1296.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1297.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1298.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1299.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1300.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1301.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1302.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1303.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1304.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1305.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1306.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1307.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1308.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1309.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1310.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1311.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1312.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1313.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1314.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1315.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1316.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1317.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1318.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1319.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1320.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1321.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1322.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1323.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1324.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1325.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1326.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1327.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1328.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1329.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1330.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1331.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1332.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1333.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1334.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1335.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1336.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1337.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1338.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1339.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1340.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1341.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1342.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1343.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1344.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1345.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1346.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1347.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1348.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1349.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1350.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1351.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1352.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1353.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1354.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1355.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1356.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1357.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1358.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1359.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1360.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1361.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1362.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1363.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1364.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1365.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1366.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1367.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1368.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1369.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1370.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1371.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1372.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1373.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1374.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1375.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1376.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1377.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1378.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1379.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1380.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1381.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1382.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1383.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1384.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1385.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1386.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1387.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1388.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1389.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1390.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1391.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1392.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1393.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1394.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1395.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1396.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1397.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1398.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1399.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1400.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1401.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1402.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1403.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1404.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1405.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1406.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1407.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1408.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1409.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1410.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1411.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1412.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1413.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1414.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1415.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1416.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1417.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1418.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1419.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1420.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1421.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1422.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1423.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1424.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1425.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1426.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1427.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1428.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1429.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1430.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1431.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1432.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1433.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1434.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1435.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1436.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1437.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1438.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1439.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1440.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1441.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1442.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1443.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1444.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1445.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1446.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1447.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1448.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1449.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1450.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1451.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1452.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1453.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1454.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1455.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1456.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1457.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1458.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1459.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1460.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1461.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1462.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1463.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1464.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1465.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1466.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1467.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1468.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1469.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1470.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1471.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1472.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1473.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1474.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1475.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1476.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1477.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1478.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1479.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1480.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1481.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1482.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1483.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1484.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1485.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1486.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1487.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1488.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1489.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1490.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1491.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1492.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1493.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1494.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1495.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1496.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1497.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1498.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1499.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1500.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1501.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1502.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1503.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1504.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1505.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1506.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1507.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1508.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1509.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1510.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1511.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1512.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1513.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1514.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1515.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1516.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1517.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1518.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1519.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1520.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1521.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1522.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1523.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1524.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1525.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1526.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1527.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1528.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1529.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1530.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1531.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1532.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1533.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1534.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1535.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1536.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1537.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1538.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1539.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1540.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1541.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1542.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1543.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1544.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1545.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1546.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1547.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1548.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1549.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1550.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1551.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1552.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1553.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1554.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1555.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1556.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1557.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1558.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1559.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1560.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1561.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1562.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1563.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1564.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1565.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1566.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1567.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1568.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1569.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1570.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1571.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1572.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1573.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1574.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1575.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1576.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1577.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1578.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1579.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1580.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1581.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1582.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1583.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1584.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1585.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1586.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1587.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1588.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1589.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1590.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1591.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1592.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1593.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1594.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1595.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1596.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1597.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1598.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1599.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1600.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1601.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1602.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1603.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1604.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1605.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1606.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1607.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1608.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1609.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1610.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1611.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1612.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1613.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1614.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1615.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1616.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1617.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1618.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1619.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1620.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1621.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1622.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1623.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1624.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1625.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1626.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1627.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1628.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1629.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1630.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1631.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1632.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1633.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1634.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1635.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1636.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1637.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1638.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1639.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1640.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1641.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1642.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1643.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1644.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1645.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1646.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1647.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1648.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1649.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1650.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1651.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1652.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1653.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1654.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1655.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1656.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1657.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1658.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1659.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1660.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1661.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1662.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1663.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1664.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1665.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1666.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1667.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1668.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1669.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1670.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1671.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1672.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1673.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1674.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1675.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1676.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1677.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1678.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1679.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1680.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1681.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1682.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1683.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1684.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1685.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1686.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1687.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1688.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1689.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1690.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1691.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1692.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1693.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1694.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1695.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1696.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1697.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1698.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1699.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1700.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1701.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1702.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1703.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1704.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1705.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1706.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1707.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1708.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1709.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1710.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1711.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1712.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1713.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1714.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1715.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1716.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1717.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1718.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1719.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1720.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1721.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1722.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1723.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1724.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1725.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1726.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1727.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1728.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1729.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1730.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1731.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1732.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1733.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1734.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1735.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1736.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1737.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1738.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1739.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1740.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1741.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1742.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1743.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1744.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1745.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1746.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1747.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1748.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1749.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1750.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1751.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1752.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1753.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1754.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1755.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1756.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1757.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1758.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1759.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1760.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1761.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1762.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1763.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1764.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1765.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1766.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1767.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1768.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1769.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1770.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1771.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1772.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1773.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1774.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1775.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1776.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1777.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1778.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1779.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1780.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1781.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1782.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1783.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1784.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1785.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1786.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1787.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1788.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1789.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1790.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1791.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1792.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1793.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1794.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1795.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1796.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1797.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1798.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1799.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1800.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1801.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1802.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1803.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1804.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1805.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1806.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1807.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1808.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1809.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1810.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1811.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1812.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1813.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1814.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1815.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1816.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1817.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1818.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1819.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1820.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1821.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1822.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1823.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1824.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1825.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1826.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1827.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1828.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1829.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1830.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1831.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1832.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1833.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1834.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1835.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1836.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1837.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1838.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1839.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1840.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1841.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1842.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1843.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1844.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1845.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1846.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1847.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1848.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1849.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1850.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1851.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1852.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1853.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1854.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1855.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1856.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1857.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1858.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1859.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1860.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1861.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1862.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1863.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1864.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1865.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1866.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1867.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1868.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1869.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1870.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1871.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1872.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1873.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1874.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1875.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1876.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1877.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1878.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1879.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1880.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1881.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1882.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1883.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1884.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1885.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1886.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1887.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1888.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1889.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1890.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1891.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1892.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1893.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1894.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1895.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1896.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1897.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1898.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1899.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1900.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1901.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1902.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1903.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1904.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1905.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1906.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1907.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1908.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1909.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1910.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1911.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1912.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1913.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1914.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1915.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1916.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1917.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1918.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1919.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1920.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1921.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1922.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1923.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1924.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1925.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1926.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1927.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1928.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1929.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1930.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1931.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1932.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1933.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1934.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1935.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1936.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1937.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1938.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1939.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1940.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1941.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1942.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1943.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1944.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1945.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1946.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1947.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1948.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1949.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1950.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1951.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1952.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1953.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1954.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1955.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1956.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1957.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1958.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1959.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1960.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1961.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1962.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1963.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1964.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1965.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1966.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1967.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1968.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1969.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1970.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1971.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1972.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1973.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1974.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1975.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1976.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1977.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1978.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1979.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1980.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1981.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1982.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1983.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1984.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1985.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1986.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1987.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1988.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1989.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1990.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1991.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1992.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1993.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1994.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1995.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1996.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1997.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1998.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/1999.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2000.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2001.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2002.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2003.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2004.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2005.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2006.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2007.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2008.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2009.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2010.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2011.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2012.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2013.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2014.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2015.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2016.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2017.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2018.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2019.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2020.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2021.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2022.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2023.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2024.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2025.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2026.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2027.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2028.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2029.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2030.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2031.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2032.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2033.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2034.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2035.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2036.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2037.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2038.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2039.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2040.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2041.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2042.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2043.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2044.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2045.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2046.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2047.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2048.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2049.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2050.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2051.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2052.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2053.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2054.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2055.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2056.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2057.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2058.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2059.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2060.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2061.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2062.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2063.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2064.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2065.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2066.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2067.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2068.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2069.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2070.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2071.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2072.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2073.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2074.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2075.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2076.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2077.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2078.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2079.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2080.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2081.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2082.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2083.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2084.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2085.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2086.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2087.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2088.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2089.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2090.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2091.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2092.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2093.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2094.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2095.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2096.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2097.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2098.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2099.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2100.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2101.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2102.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2103.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2104.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2105.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2106.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2107.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2108.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2109.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2110.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2111.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2112.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2113.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2114.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2115.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2116.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2117.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2118.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2119.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2120.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2121.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2122.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2123.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2124.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2125.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2126.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2127.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2128.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2129.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2130.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2131.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2132.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2133.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2134.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2135.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2136.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2137.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2138.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2139.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2140.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2141.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2142.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2143.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2144.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2145.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2146.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2147.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2148.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2149.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2150.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2151.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2152.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2153.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2154.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2155.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2156.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2157.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2158.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2159.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2160.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2161.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2162.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2163.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2164.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2165.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2166.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2167.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2168.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2169.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2170.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2171.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2172.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2173.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2174.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2175.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2176.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2177.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2178.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2179.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2180.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2181.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2182.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2183.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2184.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2185.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2186.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2187.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2188.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2189.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2190.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2191.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2192.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2193.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2194.jpg
+/home/lj/cy/data/piano/new/videos/Tencent/images/level_4_no_02/2195.jpg
